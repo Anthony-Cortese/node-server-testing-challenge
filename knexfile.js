@@ -6,7 +6,7 @@ module.exports = {
       migrations: { directory: './data/migrations' },
       seeds: {directory: './data/seeds' },
       connection: {
-        filename: './data/producers.db3'
+        filename: './data/directors.db3'
       }
     },
     testing: {
